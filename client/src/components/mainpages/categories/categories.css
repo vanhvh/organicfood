@@ -1,0 +1,24 @@
+.category {
+    margin-left: 50px;
+}
+
+.category__title span {
+    line-height: 47.6px;
+}
+
+.category input {
+    margin-right: 15px !important;
+}
+
+.category .btn-edit, .category .btn-delete {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.category__title {
+    border-bottom: 1px solid #333;
+}
+
+.mr--5px {
+    margin-right: 5px;
+}
